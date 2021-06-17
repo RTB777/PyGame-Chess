@@ -1,0 +1,1 @@
+pyinstaller main.py --onefile --noconsole --icon=data/icon.ico --name=Chess --add-data "data;data"
